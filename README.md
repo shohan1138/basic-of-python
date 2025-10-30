@@ -15,4 +15,10 @@ This repository contains Python exercises and examples that cover fundamental pr
 - Operator Overloading
 - Problem-Solving Exercises
 
-## 📂 Repository Structure
+
+## ✅ How to Use
+Clone the repository and run any Python file:
+```bash
+git clone https://github.com/shohan1138/basic-of-python.git
+cd basic-of-python
+python filename.py
